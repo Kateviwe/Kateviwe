@@ -16,5 +16,5 @@
 <h3>Мои контакты:</h3>
 <ul>
     <li>E-mail: katyaperezhilova@mail.ru</li>
-    <li>Telegram: <a href="https://tlgg.ru/Tarreya">@Tarreya</a></li>
+    <li>Telegram: <a href="https://tlgg.ru/Tarreya" target="_blank">@Tarreya</a></li>
 </ul>
